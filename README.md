@@ -6,9 +6,11 @@ Developed project as a team of 4 for McGill AI Society Hackathon 2023.
 
 Devpost: https://devpost.com/software/timewiz 
 
-![image](https://github.com/LeiLiYang/TimeWiz/assets/115513104/c47b26cd-d1e6-49e4-b3f6-5080f62130f1)
+![gallery](https://github.com/LeiLiYang/TimeWiz/assets/115513104/4ee8b51c-9dc6-401b-ba38-78a2566a5147)
 
 
-![image](https://github.com/LeiLiYang/TimeWiz/assets/115513104/3481236f-9949-464b-8ec9-96958d026e32)
+![gallery (1)](https://github.com/LeiLiYang/TimeWiz/assets/115513104/42e5df47-4a87-4b26-9ccb-b413419d76fc)
+
+
 
 Project completed in October 2023.
